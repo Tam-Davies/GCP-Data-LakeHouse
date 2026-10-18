@@ -1,0 +1,10 @@
+requests
+python-dotenv
+pandas
+pyarrow
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-pubsub
+google-auth
+pytest
+pyyaml

@@ -1,0 +1,19 @@
+gcp:
+  project_id: ""
+  bucket_name: ""
+
+storage:
+  raw_prefix: "raw/eia/"
+  processed_prefix: "processed/silver/"
+  curated_prefix: "curated/gold/"
+
+bigquery:
+  dataset: ""
+  location: "US"
+
+pubsub:
+  topic: ""
+  subscription: ""
+
+eia:
+  base_url: "https://api.eia.gov/v2/"
