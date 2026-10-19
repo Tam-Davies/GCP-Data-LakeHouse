@@ -69,7 +69,7 @@ def fetch_eia_data():
         ("api_key", EIA_API_KEY),
         ("frequency", "annual"),
         ("data[0]", "value"),
-        ("start", "2010"),
+        ("start", "2020"),
         ("end", "2026"),
         ("sort[0][column]", "period"),
         ("sort[0][direction]", "desc"),
